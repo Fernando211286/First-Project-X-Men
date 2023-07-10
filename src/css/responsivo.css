@@ -1,5 +1,4 @@
-@media (max-width: 800px) {
-
+@media (max-width: 1120px) {
     .cabecalho .logo {
         max-width: 190px;
     }
@@ -24,7 +23,6 @@
 
     .selecao-de-personagens .personagem img {
         width: 80px;
-        height: 80px;
     }
 
     .personagem-selecionado .personagem-grande {
